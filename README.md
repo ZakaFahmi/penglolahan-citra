@@ -1,4 +1,4 @@
-# pillow
+# penglolahan citra
 
 - install pillow
 - import gambar menggunakan pillow 
